@@ -13,6 +13,8 @@ Test 2
 ## Test 3
 Test 3
 
+## GET: /users/<userID>
+
 ```java
 Test test = new Test();
 ```
