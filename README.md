@@ -3,6 +3,8 @@ This is a test repository.
 
 - [test 1](#test-1)
 - [test 2](./README.md#test-2)
+- [test 3](#test-3)
+- [test 4](#test-4)
 
 ## Test 1
 Test 1
